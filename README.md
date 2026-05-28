@@ -11,3 +11,15 @@ git satatus
 git add . 
 git commit -m "feat: Initial Setup"
 ```
+## Python Foundation:
+
+- Primitive Variables
+- Function
+- Object
+- Class
+- Class deep dive
+- Operation & Conditions
+- Loops
+- List, Tuple, Array & Set
+- Comprehensions
+- Packages & Debugging
